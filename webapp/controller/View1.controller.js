@@ -6,6 +6,7 @@ sap.ui.define([
 	return Controller.extend("com.hul.git.zdemoapp.ZDemoApp.controller.View1", {
 		onInit: function () {
 			//test1
+			//test2
 		}
 	});
 });
